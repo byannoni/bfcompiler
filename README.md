@@ -7,4 +7,4 @@ Brainfuck compiler written in assembly.
 - [ ] Optimize inc and dec with add and sub
 - [ ] Add unit tests
 - [ ] Change labels to be more descriptive
-- [ ] Add more usefull comments
+- [ ] Add more useful comments
